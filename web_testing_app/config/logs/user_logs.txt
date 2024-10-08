@@ -1,0 +1,137 @@
+Driver started
+Navigated to login page.
+Found username and password fields.
+Entered credentials.
+Clicked login button.
+Login successful!
+Clicked customer button for: Intermedia_Old
+Clicked the New Project button.
+Dropdown for 'Please select your use-case' activated.
+Typed 'Churn' to filter the dropdown options.
+Option 'Churn' mapped and Enter key pressed.
+Selected the 'Subscription' checkbox/radio button.
+Selected the 'Customer' checkbox/radio button.
+Found the input field.
+Entered project_name: auto10-08 18:26:32
+Successfully clicked the 'Create' button.
+Found the project: auto1008182632
+Attempt 1: Error clicking on the project 'auto1008182632': Message: element not interactable
+  (Session info: chrome=129.0.6668.70)
+Stacktrace:
+#0 0x6361ff98a02a <unknown>
+#1 0x6361ff67043d <unknown>
+#2 0x6361ff6c0ddb <unknown>
+#3 0x6361ff6b4a98 <unknown>
+#4 0x6361ff6e4b22 <unknown>
+#5 0x6361ff6b4478 <unknown>
+#6 0x6361ff6e4cee <unknown>
+#7 0x6361ff703d7d <unknown>
+#8 0x6361ff6e48c3 <unknown>
+#9 0x6361ff6b26b3 <unknown>
+#10 0x6361ff6b368e <unknown>
+#11 0x6361ff954a2b <unknown>
+#12 0x6361ff9589b1 <unknown>
+#13 0x6361ff941225 <unknown>
+#14 0x6361ff959532 <unknown>
+#15 0x6361ff92638f <unknown>
+#16 0x6361ff978f28 <unknown>
+#17 0x6361ff9790f3 <unknown>
+#18 0x6361ff988e7c <unknown>
+#19 0x74ae5b694ac3 <unknown>
+
+Attempt 2: Error clicking on the project 'auto1008182632': Message: element not interactable
+  (Session info: chrome=129.0.6668.70)
+Stacktrace:
+#0 0x6361ff98a02a <unknown>
+#1 0x6361ff67043d <unknown>
+#2 0x6361ff6c0ddb <unknown>
+#3 0x6361ff6b4a98 <unknown>
+#4 0x6361ff6e4b22 <unknown>
+#5 0x6361ff6b4478 <unknown>
+#6 0x6361ff6e4cee <unknown>
+#7 0x6361ff703d7d <unknown>
+#8 0x6361ff6e48c3 <unknown>
+#9 0x6361ff6b26b3 <unknown>
+#10 0x6361ff6b368e <unknown>
+#11 0x6361ff954a2b <unknown>
+#12 0x6361ff9589b1 <unknown>
+#13 0x6361ff941225 <unknown>
+#14 0x6361ff959532 <unknown>
+#15 0x6361ff92638f <unknown>
+#16 0x6361ff978f28 <unknown>
+#17 0x6361ff9790f3 <unknown>
+#18 0x6361ff988e7c <unknown>
+#19 0x74ae5b694ac3 <unknown>
+
+Attempt 3: Error clicking on the project 'auto1008182632': Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x6361ff98a02a <unknown>
+#1 0x6361ff6705e0 <unknown>
+#2 0x6361ff676443 <unknown>
+#3 0x6361ff6783c9 <unknown>
+#4 0x6361ff704cfc <unknown>
+#5 0x6361ff6e4b22 <unknown>
+#6 0x6361ff703d7d <unknown>
+#7 0x6361ff6e48c3 <unknown>
+#8 0x6361ff6b26b3 <unknown>
+#9 0x6361ff6b368e <unknown>
+#10 0x6361ff954a2b <unknown>
+#11 0x6361ff9589b1 <unknown>
+#12 0x6361ff941225 <unknown>
+#13 0x6361ff959532 <unknown>
+#14 0x6361ff92638f <unknown>
+#15 0x6361ff978f28 <unknown>
+#16 0x6361ff9790f3 <unknown>
+#17 0x6361ff988e7c <unknown>
+#18 0x74ae5b694ac3 <unknown>
+
+Failed to click on the project after 3 attempts.
+Project login failed: Could not click project 'auto1008182632' due to repeated interception.
+Add Datasets button clicked.
+Popup didn't appear: Message: 
+Stacktrace:
+#0 0x6361ff98a02a <unknown>
+#1 0x6361ff6705e0 <unknown>
+#2 0x6361ff6bfbe8 <unknown>
+#3 0x6361ff6bfe81 <unknown>
+#4 0x6361ff7068c4 <unknown>
+#5 0x6361ff6e4b4d <unknown>
+#6 0x6361ff703d7d <unknown>
+#7 0x6361ff6e48c3 <unknown>
+#8 0x6361ff6b26b3 <unknown>
+#9 0x6361ff6b368e <unknown>
+#10 0x6361ff954a2b <unknown>
+#11 0x6361ff9589b1 <unknown>
+#12 0x6361ff941225 <unknown>
+#13 0x6361ff959532 <unknown>
+#14 0x6361ff92638f <unknown>
+#15 0x6361ff978f28 <unknown>
+#16 0x6361ff9790f3 <unknown>
+#17 0x6361ff988e7c <unknown>
+#18 0x74ae5b694ac3 <unknown>
+
+Add Datasets failed: Message: 
+Stacktrace:
+#0 0x6361ff98a02a <unknown>
+#1 0x6361ff6705e0 <unknown>
+#2 0x6361ff6bfbe8 <unknown>
+#3 0x6361ff6bfe81 <unknown>
+#4 0x6361ff7068c4 <unknown>
+#5 0x6361ff6e4b4d <unknown>
+#6 0x6361ff703d7d <unknown>
+#7 0x6361ff6e48c3 <unknown>
+#8 0x6361ff6b26b3 <unknown>
+#9 0x6361ff6b368e <unknown>
+#10 0x6361ff954a2b <unknown>
+#11 0x6361ff9589b1 <unknown>
+#12 0x6361ff941225 <unknown>
+#13 0x6361ff959532 <unknown>
+#14 0x6361ff92638f <unknown>
+#15 0x6361ff978f28 <unknown>
+#16 0x6361ff9790f3 <unknown>
+#17 0x6361ff988e7c <unknown>
+#18 0x74ae5b694ac3 <unknown>
+
+WebDriver closed.
+Driver closed.
