@@ -1,3 +1,3 @@
 
-username = 'tushar@stepfunction.ai'
-password = 'Temp@1133'
+username = 'ABC.COM'
+password = 'TEST123'
